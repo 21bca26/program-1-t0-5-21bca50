@@ -11,7 +11,7 @@ void main()
 	while(a!=0)
 	{
 		reverse=reverse*10;
-		reverse=reverse+a%10;
+		//reverse=reverse+a%10;
 		a=a/10;
 	}
 
