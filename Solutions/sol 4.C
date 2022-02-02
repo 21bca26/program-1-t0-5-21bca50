@@ -12,9 +12,9 @@ void main()
 	while (a!=0)
 	{
 		d=a%10;
-		c=d*d*d;
+		//c=d*d*d;
 		a=a/10;
-		sum=sum+c;
+		//sum=sum+c;
 	}
 	if(b==sum)
 	{
